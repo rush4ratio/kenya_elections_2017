@@ -1,4 +1,4 @@
-# kenya_elections_2017
+# Kenya Elections 2017
 
 ## Preliminary Results
 

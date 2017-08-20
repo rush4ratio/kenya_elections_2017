@@ -1,3 +1,4 @@
 *.py
-*.ipynb
+.ipynb_checkpoints/
+Untitled.ipynb
 *.json
